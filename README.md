@@ -2,8 +2,6 @@
 
 This repository contains implementations of anomaly detection using **Isolation Forest**, **XGBoost**, and an overview of how **Generative AI (GenAI)** can be applied to suggest corrective actions after anomalies are detected.  
 
-![Uploading Screenshot 2025-09-28 190402.png…]()
-
 
 ## 📌 What is Anomaly Detection?
 Anomaly detection refers to identifying rare items, events, or observations that differ significantly from the majority of the data.  
