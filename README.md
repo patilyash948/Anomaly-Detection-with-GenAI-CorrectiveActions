@@ -53,8 +53,11 @@ Such anomalies can indicate:
 - **Example Workflow**:
   1. **Isolation Forest/XGBoost** detects anomalies.  
   2. **GenAI model** interprets the anomaly in plain language.  
-  3. **GenAI suggests actions**: “This transaction is likely fraudulent → recommend contacting the customer before approval.”  
-
+  3. **GenAI suggests actions**: “This transaction is likely fraudulent → recommend contacting the customer before approval.”
+     
+- **Streamlit Integration**:  
+  The GenAI corrective actions are implemented using **Streamlit** for an interactive UI.  
+  You can run the app with the following command: 
 
 
 ## ⚙️ Installation & Requirements
